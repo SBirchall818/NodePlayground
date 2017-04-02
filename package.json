@@ -2,7 +2,7 @@
   "name": "nodeplayground",
   "version": "1.0.0",
   "description": "A package for me to play around and get to grips with node",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "body-parser": "^1.17.1",
     "cookie-parser": "^1.4.3",
