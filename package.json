@@ -4,7 +4,10 @@
   "description": "A package for me to play around and get to grips with node",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.15.2"
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
   },
   "devDependencies": {},
   "scripts": {
